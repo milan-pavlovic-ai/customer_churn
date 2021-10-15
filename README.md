@@ -4,7 +4,7 @@
 For any business, customers are the basis for its success and revenue and that is why companies become more aware of the importance of gaining customer satisfaction. Customer retention includes all actions taken by an organization to guarantee customer loyalty and reduce customer churn. Customer churn refers to customers moving to a competitive organization or service provider.
 
 ### Task
-The task for this challenge is to analyze data and get to some conclusions regarding how the retention rate can be improved.
+The task for this 48h challenge is to analyze data and get to some conclusions regarding how the retention rate can be improved.
 
 ### Solution
 There are various approaches to this problem that may depend more or less on the company's business plan. The two most popular approaches are customer segmentation and customer churn rate prediction. In this paper, the approach by which the mentioned problem was attacked is the prediction of customer churn. With a successful prediction of customer churn, it is possible to register customers before canceling their reservation and thus take appropriate actions that will keep the customers. Specifically, this sub-problem is known in the literature as Voluntary Churn (canceled) and/or Involuntary Churn (rejected).
