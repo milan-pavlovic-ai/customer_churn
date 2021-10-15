@@ -1,4 +1,4 @@
-# Customer churn
+# Customer churn prediction
 
 ### Introduction
 For any business, customers are the basis for its success and revenue and that is why companies become more aware of the importance of gaining customer satisfaction. Customer retention includes all actions taken by an organization to guarantee customer loyalty and reduce customer churn. Customer churn refers to customers moving to a competitive organization or service provider.
